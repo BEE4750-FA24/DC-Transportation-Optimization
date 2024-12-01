@@ -12,9 +12,9 @@ Our project will minimize an objective function that calculates the net carbon d
 For our model, we will source data for Ithaca due to the amount of data and research that has been conducted by previous students and research teams whose goals align with our group’s. Additional data that has not been collected or published that is necessary to conduct our research can be obtained with the use of various global positioning softwares such as ESRI and ArcGIS. This will help us produce routing maps to obtain distances traveled by buses to determine the amount of tailpipe CO2 emissions produced. Some uncertainties we will consider include unknown drastic population changes and sudden regulation changes affecting EV infrastructure.
 
 ##### A work plan including tasks for each group member to lead:
-Raashid: overall writing and group coordination
+Raashid: Overall writing and group coordination
 
-Maya: bus transportation data collection, office hour coordination
+Maya: Bus transportation data collection, office hour coordination
 
 MacKenzie: Internal group timeline creation and management
 
