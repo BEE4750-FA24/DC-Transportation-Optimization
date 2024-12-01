@@ -13,8 +13,11 @@ For our model, we will source data for Ithaca due to the amount of data and rese
 
 ##### A work plan including tasks for each group member to lead:
 Raashid: overall writing and group coordination
+
 Maya: bus transportation data collection, office hour coordination
+
 MacKenzie: Internal group timeline creation and management
+
 Noah: Data collection overview and method organization
 
 Plans for group coordination:
